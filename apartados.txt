@@ -1,1 +1,4 @@
-1. Introducción a git\n 2. Flujo de trabajo básico\n 3. Repositorios remotos
+1. Introducción a git
+2. Flujo de trabajo básico
+3. Gestión de ramas
+4. Repositorios Remotos
